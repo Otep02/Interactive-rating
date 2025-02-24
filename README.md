@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []
-- Live Site URL: []
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-ahohui3POg]
+- Live Site URL: [https://otep02.github.io/Interactive-rating/]
 
 ## My process
 
